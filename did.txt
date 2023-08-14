@@ -1,0 +1,7 @@
+my name is menachem
+his name is daniel
+8
+daniel is name menachem
+his is name my
+daniel,is,name,menachem
+his,my
